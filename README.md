@@ -95,38 +95,6 @@ cd life-expectancy-prediction
 pip install -r requirements.txt
 ```
 
-## Usage
-
-**Option 1: Jupyter Notebook**
-```bash
-jupyter notebook life_expectancy_analysis.ipynb
-```
-
-**Option 2: Python Script**
-```bash
-python analysis.py
-```
-
-**Option 3: View Dashboard**
-Open `dashboard.html` in your browser
-
-## Visualizations
-
-### Life Expectancy Distribution
-![Distribution](visualizations/01_distribution.png)
-
-### Developed vs Developing Countries
-![Trend](visualizations/04_trend_by_status.png)
-
-### Correlation Heatmap
-![Correlation](visualizations/05_correlation_heatmap.png)
-
-### Model Performance
-![Models](visualizations/09_model_comparison.png)
-
-### Feature Importance
-![Features](visualizations/10_feature_importance.png)
-
 ## Methodology
 
 1. **Data Cleaning**
@@ -159,10 +127,3 @@ Open `dashboard.html` in your browser
 - seaborn
 - scipy
 
-## License
-
-MIT
-
-## Author
-
-[Your Name](https://github.com/yourusername)
