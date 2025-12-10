@@ -1,0 +1,6 @@
+Model,R2_Score,RMSE,MAE
+Extra Trees,0.9739,1.5031,0.9098
+Random Forest,0.9658,1.7223,1.0821
+Gradient Boosting,0.9446,2.1903,1.6124
+Linear Regression,0.8533,3.5655,2.6845
+Ridge,0.8533,3.5645,2.6837
